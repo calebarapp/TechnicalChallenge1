@@ -1,0 +1,6 @@
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/bin/Debug/TechnicalQuestion.exe
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/bin/Debug/TechnicalQuestion.pdb
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/obj/x86/Debug/TechnicalQuestion.csprojAssemblyReference.cache
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/obj/x86/Debug/TechnicalQuestion.csproj.CoreCompileInputs.cache
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/obj/x86/Debug/TechnicalQuestion.exe
+/Users/calebrapp/Projects/TechnicalQuestion/TechnicalQuestion/obj/x86/Debug/TechnicalQuestion.pdb
