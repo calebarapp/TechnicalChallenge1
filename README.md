@@ -1,5 +1,5 @@
 # TechnicalChallenge1
-Response to a technical Challenge.
+Response to a technical Challenge using a .net Core Console Application.
 
 Challenge 1:  
 Given an array of integers, write a method to total the odd numbers.
